@@ -46,14 +46,12 @@ This allows you to:
 1. Clone the repository:
    ```bash
    git clone https://github.com/khadka27/my-temp-mail.git
-   Install dependencies:
    ```
 
 ## Install dependencies:
 
 ```bash
 npm install
-Run the development server:
 ```
 
 ## Run the development server:
@@ -68,11 +66,11 @@ pnpm dev
 
 # 🌐 Live Demo
 
-```bash
-Check out the live version here: https://mytempmail.vercel.app
-```
+
+## Check out the live version here: https://mytempmail.vercel.app
+
 
 📄 License
 This project is licensed under the MIT License.
 
-Built with ❤️ by Abishek Khadka (KHADKA27)
+Built with ❤️ by Abishek Khadka (khadka27)
